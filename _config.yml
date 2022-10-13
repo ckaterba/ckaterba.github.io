@@ -3,8 +3,9 @@ title: Charlie Katerba
 description: A website in progress that will eventually host some pet projects,
 resume, cv, etc.
 
-#twitter_username: jekyllrb
 github_username:  ckaterba
+twitter_username: CKaterba
+
 
 # Build settings
 lsi: false
