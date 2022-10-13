@@ -5,14 +5,10 @@ author:
   email: charles.katerba@gmail.com
   github: ckaterba
 
-description: A website in progress that will eventually host some pet projects,
-resume, cv, etc.
+description: A website in progress that will eventually host some pet data science 
+projects, teaching resources/content, and other fun things. 
 
-production_url : https://ckaterba.github.io
 
-markdown: kramdown
-
-BASE_PATH : https://ckaterba.github.io
 
 # Build settings
 # lsi: false
