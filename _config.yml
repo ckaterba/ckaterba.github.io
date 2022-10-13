@@ -1,24 +1,10 @@
+title: Chazzy math
+author: Charles Katerba
+description: A website in progress to share some personal and professional projects. 
+
 theme : jekyll-theme-minimal
-title : TBD
-author: 
-  name: Charles Katerba
-  email: charles.katerba@gmail.com
-  github: ckaterba
-
-description: A website in progress that will eventually host some pet data science 
-projects, teaching resources/content, and other fun things. 
 
 
 
-# Build settings
-# lsi: false
-# safe: true
-# source: # what goes here 
-# incremental: false
-# highlighter: rouge
-# gist:
-#   noscript: false
-# kramdown:
-#   math_engine: mathjax
-#   syntax_highlighter: rouge
+
 
