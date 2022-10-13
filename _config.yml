@@ -1,11 +1,18 @@
-theme: jekyll-theme-minimal
-title: Charlie Katerba
+theme : jekyll-theme-minimal
+title : TBD
+author: 
+  name: Charles Katerba
+  email: charles.katerba@gmail.com
+  github: ckaterba
+
 description: A website in progress that will eventually host some pet projects,
 resume, cv, etc.
 
-github_username:  ckaterba
-twitter_username: CKaterba
+production_url : https://ckaterba.github.io
 
+markdown: kramdown
+
+BASE_PATH : https://ckaterba.github.io
 
 # Build settings
 # lsi: false
