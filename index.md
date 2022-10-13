@@ -4,11 +4,19 @@ I'm an assistant professor of math at [Flathead Valley Community College](https:
 
 ### Teaching resources
 
-- STAT216 
+- [STAT216](./stat216)
 
-- M115
+- [M115](./m115)
+
+### Professional things
+
+- Resume
+
+- Old CV
 
 ### Projects
+
+#### Data science-y
 
 - NW Montana avalanche forecast generator [very much in progress]
 
@@ -16,8 +24,25 @@ I'm an assistant professor of math at [Flathead Valley Community College](https:
 
 - Mortgage as a proportion of income, by county [very much in progress]
 
-### Professional things
+- Winter sports heat map
 
-- Resume
+- 
 
-- Old CV
+#### Math-y
+
+- Indra's Pearls github
+
+- Twist-knot intersection github, paper in progress 
+
+- Integral points paper arxiv
+
+- Culler-Shalen norm paper arxiv
+
+#### Goofy
+
+- ray tracing in ShaderToy
+
+- Wordle solver 
+
+
+
