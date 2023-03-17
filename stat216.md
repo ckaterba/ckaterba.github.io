@@ -2,11 +2,11 @@
 
 ## Resource links
 
-- **Main textbook:** [*OpenIntro Statistics*](https://www.openintro.org/book/os/)
+- [*OpenIntro Statistics*](https://www.openintro.org/book/os/), our main textbook. 
 
 - [*R for STATS @ FVCC*](../stat216_r_book) (book/notes for using R in our class)
 
-- (hopefully) Helpful videos on how to use R/RStudio/Posit and a deeper dive into some STAT216 concepts at [Charlie's STAT216 YouTube Playlist](https://youtube.com/playlist?list=PLskkzG2rCe9-NqbpXUfl5r39m6IWUd1LZ)
+- Helpful (hopefully) videos on how to use R/RStudio/Posit and a deeper dive into some STAT216 concepts at [Charlie's STAT216 YouTube Playlist](https://youtube.com/playlist?list=PLskkzG2rCe9-NqbpXUfl5r39m6IWUd1LZ)
 
 - **Activities**:
 
@@ -18,7 +18,7 @@
     
     - [*Activity 4: 2020 MT Deer Harvest*](../stat216_activities/STAT216_A4.html)
     
-    - [Activity 5: Datasaurus Vex](../stat216_activities/STAT216_A5.html)
+    - [*Activity 5: Datasaurus Vex*](../stat216_activities/STAT216_A5.html)
     
 - **Educational widgets**:
 

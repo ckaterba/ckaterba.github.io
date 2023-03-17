@@ -30,19 +30,16 @@ I'm an assistant professor of math at [Flathead Valley Community College](https:
 
 #### Math-y
 
-- Indra's Pearls github
+- [*Ideal points of character varieties, algebraic non-integral representations, and undetected closed essential surfaces in 3-manifolds*](https://arxiv.org/abs/1808.02535). Joint work with Alex Casella and Stephan Tillmann. Link to preprint on the arXiv. 
 
-- Twist-knot intersection github, paper in progress 
+- [*Modules, fields of definition, and the Culler-Shalen norm*](https://arxiv.org/abs/1805.04585). Link to preprint on the arXiv.
 
-- Integral points paper arxiv
+- Twist-knot intersections in the character variety of the Whitehead link. Joint paper with Tim Morris in progress. [Link to some computations in Sage](https://github.com/ckaterba/Twist_Knot_CharVar_Intersection/blob/main/twistIntExploration.ipynb).
 
-- Culler-Shalen norm paper arxiv
 
 #### Goofy
 
-- ray tracing in ShaderToy
+- Naive Wordle solver (in R). 
 
-- Wordle solver 
-
-
+- [A planet with a moon orbiting a star](https://www.shadertoy.com/view/NdGyWh) Simple ray tracing exercise in ShaderToy.
 
