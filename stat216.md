@@ -10,7 +10,7 @@
 
 - Activities:
 
-    - [Activity 1: Intro to RStudio](../stat216_activities/docs/STAT216_A1.html)
+    - [Activity 1: Intro to RStudio](../stat216_activities/STAT216_A1.html)
     
     - Activity 2: Montana Scratch Lottery
     
