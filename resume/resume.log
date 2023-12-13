@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.20)  13 DEC 2023 05:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.20)  13 DEC 2023 07:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -365,14 +365,8 @@ Overfull \hbox (672.64711pt too wide) in paragraph at lines 125--134
  []
 
 [2] (./resume.aux)
-
-Package rerunfilecheck Warning: File `resume.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `resume.out':
-(rerunfilecheck)             Before: 84E14F35DA94C6EA7270B1D3C67E078C;1223
-(rerunfilecheck)             After:  3DAEFAAB9D03D9F88712A87261D0A8D1;1261.
+Package rerunfilecheck Info: File `resume.out' has not changed.
+(rerunfilecheck)             Checksum: 3DAEFAAB9D03D9F88712A87261D0A8D1;1261.
  ) 
 Here is how much of TeX's memory you used:
  8404 strings out of 478994
@@ -392,10 +386,10 @@ st/fonts/type1/public/tex-gyre/qplb.pfb></usr/local/texlive/2021/texmf-dist/fon
 ts/type1/public/tex-gyre/qplr.pfb></usr/local/texlive/2021/texmf-dist/fonts/typ
 e1/public/tex-gyre/qplri.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/ur
 w/helvetic/uhvb8a.pfb>
-Output written on resume.pdf (2 pages, 201757 bytes).
+Output written on resume.pdf (2 pages, 201579 bytes).
 PDF statistics:
- 98 PDF objects out of 1000 (max. 8388607)
- 86 compressed objects within 1 object stream
+ 99 PDF objects out of 1000 (max. 8388607)
+ 87 compressed objects within 1 object stream
  13 named destinations out of 1000 (max. 500000)
  81 words of extra memory for PDF output out of 10000 (max. 10000000)
 

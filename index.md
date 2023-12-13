@@ -12,7 +12,7 @@ In 2022 I started working part-time as a data analyst for FVCC. This role involv
 
 ### Professional things
 
-- Resume
+- [Resume](./resume/resume.pdf)
 
 - Old CV
 
