@@ -39,6 +39,7 @@ In 2022 I started working part-time as a data analyst for FVCC. This role involv
 
 **Contract**
 
+<<<<<<< HEAD
 **Personal**
 
 - NW Montana avalanche forecast generator [work in progress]
@@ -52,6 +53,14 @@ In 2022 I started working part-time as a data analyst for FVCC. This role involv
 #### Math
 
 - [Ideal points of character varieties, algebraic non-integral representations, and undetected closed essential surfaces in 3-manifolds](https://arxiv.org/abs/1808.02535). Link to pre-print of a paper published in the Proceedings of the AMS. Joint work with Alex Casella and Stephan Tillmann.
+=======
+- [*Ideal points of character varieties, algebraic non-integral representations, and undetected closed essential surfaces in 3-manifolds*](https://arxiv.org/abs/1808.02535). Joint work with Alex Casella and Stephan Tillmann. Link to preprint on the arXiv. 
+
+- [*Modules, fields of definition, and the Culler-Shalen norm*](https://arxiv.org/abs/1805.04585). Link to preprint on the arXiv.
+
+- Twist-knot intersections in the character variety of the Whitehead link. Joint paper with Tim Morris in progress. [Link to some computations in Sage](https://github.com/ckaterba/Twist_Knot_CharVar_Intersection/blob/main/twistIntExploration.ipynb).
+
+>>>>>>> a99f94ea6443d3e779a2d3611b5ef63f1b1eb577
 
 - [Modules, fields of definition, and the Culler--Shalen norm](https://arxiv.org/abs/1805.04585). Link to pre-print of a paper submitted to Algebraic and Geometric Topology. 
 
@@ -59,9 +68,14 @@ In 2022 I started working part-time as a data analyst for FVCC. This role involv
 
 - Indra's Pearls github
 
+<<<<<<< HEAD
 - ray tracing in ShaderToy
 
 
 
+=======
+- Naive Wordle solver (in R). 
+>>>>>>> a99f94ea6443d3e779a2d3611b5ef63f1b1eb577
 
+- [A planet with a moon orbiting a star](https://www.shadertoy.com/view/NdGyWh) Simple ray tracing exercise in ShaderToy.
 
