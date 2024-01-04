@@ -5,6 +5,8 @@
 
 \usepackage[utf8]{inputenc} % For input encoding
 \usepackage{geometry}
+\usepackage{parskip}
+\usepackage{setspace}
 \geometry{a4paper, margin=0.75in}
 \usepackage[compact]{titlesec}
 \usepackage{hyperref}
@@ -16,7 +18,11 @@
 
 %\titlespacing*{\section}{0pt}{0pt}{0pt}
 
-\titleformat{\section}{\fontfamily{phv}\large\bfseries}{}{1em}{}[\titlerule] % Section title format
+\setlength{\parskip}{1pt}
+
+\titleformat{\section}{\fontfamily{phv}\large\bfseries}{}{0em}{}[\titlerule] % Section title format
+
+\titleformat{\subsection}{\bfseries}{}{0em}{}[\titlerule]
 
 % empty the headers, footers, pagenumbers…
 \pagestyle{empty}
@@ -25,49 +31,81 @@
 \begin{center}
     \fontfamily{phv} \Huge{\textbf{Charles Katerba, PhD}}
 \end{center}
-Flathead County \hfill \href{https://www.linkedin.com/in/charles-katerba-b21b50219/}{LinkedIn}\\
-Montana \hfill \href{mailto:charles.katerba@gmail.com}{charles.katerba@gmail.com} \\ 
-USA  \hfill \url{https://ckaterba.github.io}
+Whitefish \hfill \href{mailto:charles.katerba@gmail.com}{charles.katerba@gmail.com}\\
+Montana \hfill \href{https://ckaterba.github.io}{Personal Website} \\ 
+USA  \hfill \href{https://www.linkedin.com/in/charles-katerba-b21b50219/}{LinkedIn}
 
 \section{Professional Summary}
 
-Math professor and data analyst whose 10+ years of college teaching and research experience inform careful, precise analysis coupled with clear, concise communication.  After building a strong foundation in statistical analysis and basic machine learning techniques, I am eager to start a new career in a more technical, modern data science role. 
+Math professor and data analyst whose 10+ years of college teaching and research experience inform precise analysis coupled with clear, concise communication.  After building a strong foundation in statistical analysis and basic machine learning techniques, I am eager to pivot my career toward a more technical and modern data science role. 
 
 \section{Skills}
 
 \begin{tabular}{  l p{15in} }
 
-Technology: & \textit{R, SQL, Python, Tableau, git, \LaTeX, Mathematica, SageMath, MS/Google suites}  \\
+Technical: & \textit{MSSQL, R, Python, Tableau, git, \LaTeX, Mathematica, SageMath, MS/Google suites}  \\
 
-General: & \textit{Statistical analysis, regression techniques, traditional machine learning, clear and 
-\newline engaging communication, problem solving and analytical thinking} 
+General: & \textit{Statistical analysis, regression techniques, traditional machine learning, research 
+	\newline problem design, technical writing, communication w/ non-technical stakeholders}
 \end{tabular}
 
-\section{Professional Experience}
+\section{Experience as Data Professional}
 
-\begin{tabular}{ l p{15in} }
-    Oct. 2022 - Present & \textbf{Data Analyst (Part-time)} \newline 
-    Flathead Valley Community College
-    \newline Duties: \textit{Analyze student success data, fulfill ad-hoc data requests,
-    				\newline  develop and maintain Tableau dashboards, assist with IT integrations,
-				\newline ETL projects, communicate findings, data governance/culture} \\ 
+\textbf{Data Analyst} \hfill October 2022 - Present 
 
-    Aug. 2019 - Present & \textbf{Associate Professor of Mathematics (Full-time)} \newline 
-    Flathead Valley Community College
-    \newline Duties: \textit{Teach a wide range of intro math/stats courses, 
-    				   develop \newline  intro stats curriculum, coordinate/manage dual 
-    				     enrollment  \newline courses/instructors, undergraduate research, advising} \\ 
-    
-    Aug. 2017 - May 2019 & \textbf{Postdoctoral Research Associate} \newline 
-    Montana State University
-    \newline Duties: \textit{Continue and broaden research program, teach
-    					undergraduate \newline  and graduate level courses, co-coordinate graduate math seminar,
-					\newline co-organize directed reading program} \\
-    
-    Aug. 2011 - May 2017 & \textbf{Graduate Teaching Assistant} \newline 
-    University of Montana
-    \newline Duties: \textit{Teaching assistant and instructor of record for a variety of courses} \\ 
-\end{tabular}
+\textit{Flathead Valley Community College}
+
+Select Projects:
+
+\begin{itemize}
+
+\item \textit{Chemistry and Math Course and Placement Test Analyses}: Investigated the need for co-requisite courses in math and chemistry by analyzing progress through course sequences and the relationship between placement test scores and student success. Both departments used results to create co-req courses and set requirements for admission. Co-requisite courses decreased student time-to-degree and increase success.
+
+\item \textit{Degree Audit Program}: Built and maintain a tool that audits all students' progress against all FVCC degree program requirements and a dashboard that displays student progress to academic advisors. Identified 700+ students within 3 courses of completing a degree who had stopped out. FVCC created a new scholarship fund to draw these students back to the college which will increase enrollment and graduation rates.
+
+\item \textit{Enrollment Dashboard}: FVCC's first dashboard available to all employees. Displays current, historic, and forecasted student enrollment disaggregated by many demographics. Used tool to identify a student-demographic with a sharp enrollment drop during pandemic at all-employee inservice.   Increased data access/transparency and fostered data-driven decision making at the executive level. 
+
+\item \textit{No Holding Back}: Statistical analysis investigating the impact of and equity issues relating to student holds. Analysis quantified association between various hold types and retention/graduation. Project decreased the number of hold types and lead to an on-going discussion of hold alternatives. Will ultimately streamline the student experience.
+
+\end{itemize} 
+
+
+\noindent \textbf{Data Analysis Contractor} \hfill  March 2020 - Present
+
+\textit{Self-employed} 
+
+\begin{itemize}
+\item \textit{Kalispell SD5 Enrollment Forecast}: With Michael Severino. Used past enrollment, census, and birthrate date to generate 5 and 10 year enrollment forecasts by grade for SD5. Presented results to the school board and delivered whitepaper summarizing our work. Forecasts used primarily to inform the demand for building new schools. 
+
+\item \textit{Glacier High School Ascent Program Analysis}: The Ascent Program is an intervention for at-risk high school students.  This project compared students receiving the intervention to a post-hoc control group  to address program efficacy. 
+The results helped raise at least \$30k in external funding and extend program duration.
+\end{itemize}
+
+\newpage
+
+\section{Experience as Academic}
+
+\noindent  \textbf{Associate Professor of Mathematics} \hfill August  2019 - Present 
+
+\textit{Flathead Valley Community College}
+
+
+
+\textit{Duties}: Teach and develop curriculum for a wide range of intro math/stats courses, coordinate/manage dual enrollment   courses/instructors, undergraduate research mentor, advising, committee work
+
+\textbf{Postdoctoral Research Associate} \hfill August 2017 - May 2019
+
+\textit{Montana State University}
+
+\textit{Duties}: Continue and broaden research program, teach undergraduate  and graduate level courses, coordinate graduate math seminar, co-organize directed reading program
+
+\noindent \textbf{Graduate Teaching Assistant} \hfill August  2011 - May 2017
+
+\textit{University of Montana}
+
+\textit{Duties}: Teaching assistant and instructor of record for a variety of undergraduate courses
+
+
 
 \section{Education}
 
@@ -85,21 +123,21 @@ General: & \textit{Statistical analysis, regression techniques, traditional mach
     \newline Minors: \textit{Philosophy, French} \\ 
 \end{tabular}
 
-\section{Data Projects}
-\begin{tabular}{ l p{15in} }
-
-FVCC: & \textit{No Holding Back Analysis} [Investigate impact and equity of student holds] 
-			\newline \textit{Math and Chemistry Placement Test Analyses} [Address need for co-requisite courses]
-			\newline \textit{Enrollment Dashboard} [Tool to explore current and forecasted enrollment]
-			\newline \textit{Degree Audit Program} [Tool that explores student degree progress] \\
-
-Contract: & \textit{Kalispell SD5 Enrollment Forecasting 
-			\newline Glacier High School Ascent Program Efficacy Analysis} \\
-
-Personal: & \textit{Montana Scratch Lottery Scrape and Analysis}
-		\newline \textit{Local Avalanche Danger Forecasting with ML} [In Progress] 
-		\newline \textit{Light-weight word predicting app} [Coursera DS Capstone - In Progress] \\
-\end{tabular}
+%\section{Data Projects}
+%\begin{tabular}{ l p{15in} }
+%
+%FVCC: & \textit{No Holding Back Analysis} [Investigate impact and equity of student holds] 
+%			\newline \textit{Math and Chemistry Placement Test Analyses} [Address need for co-requisite courses]
+%			\newline \textit{Enrollment Dashboard} [Tool to explore current and forecasted enrollment]
+%			\newline \textit{Degree Audit Program} [Tool that explores student degree progress] \\
+%
+%Contract: & \textit{Kalispell SD5 Enrollment Forecasting 
+%			\newline Glacier High School Ascent Program Efficacy Analysis} \\
+%
+%Personal: & \textit{Montana Scratch Lottery Scrape and Analysis}
+%		\newline \textit{Local Avalanche Danger Forecasting with ML} [In Progress] 
+%		\newline \textit{Light-weight word predicting app} [Coursera DS Capstone - In Progress] \\
+%\end{tabular}
 
 \section{Publications}
 
@@ -120,33 +158,17 @@ June 2016 & AMS Mathematical Research Community Fellow
 
 \end{tabular}
 
-\section{Select Presentations}
+%\section{Select Presentations}
+%
+%\begin{tabular}{ l p{15in} }
+%
+%Nov. 2023 & \textit{AI in the workplace}. FVCC $\cdot$ Professional development seminar. \\
+%Aug. 2023 & \textit{Exploring enrollment trends.} FVCC $\cdot$ All employee in-service. \\
+%Jan. 2023 &  \textit{Data literacy: for who, for what?} FVCC  $\cdot$All employee in-service. \\
+%Mar. 2019 & \textit{Searching for closed surfaces with character varieties}. Utah State University \\
+%June 2017 & \textit{Modules, fields of definition, and the Culler--Shalen norm}. University of Sydney.
+%
+%\end{tabular}
 
-\begin{tabular}{ l p{15in} }
-
-Nov. 2023 & \textit{AI in the workplace}. FVCC $\cdot$ Professional development seminar. \\
-Aug. 2023 & \textit{Exploring enrollment trends.} FVCC $\cdot$ All employee in-service. \\
-Jan. 2023 &  \textit{Data literacy: for who, for what?} FVCC  $\cdot$All employee in-service. \\
-Mar. 2019 & \textit{Searching for closed surfaces with character varieties}. Utah State University \\
-June 2017 & \textit{Modules, fields of definition, and the Culler--Shalen norm}. University of Sydney.
-
-\end{tabular}
-
-\section{Professional Development}
-
-\begin{itemize}
-
-\item \textit{Sage Days Duluth}. Sage/SnapPy development workshop at UMN - Duluth.  June 2022. 
-
-\item \textit{StatPREP Workshop}. Strategies for incorporating $R$ into intro stats courses. June 2021.
-
-\item \textit{Data Science Specialization}. Coursera data science courses with R. 2021-2023. 
-
-\item \textit{EDU291X}. FVCC PD course for teaching online. Spring 2021. 
-
-\end{itemize}
-
-\section{References}
-Available on request. 
 
 \end{document}
