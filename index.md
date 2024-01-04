@@ -48,15 +48,15 @@ To see more about my background, check out my
 
 Below you'll find links to a few semi-silly personal projects. The less silly a project sounds, the higher probability it has of being incomplete. 
 
-- NW Montana avalanche forecast generator [work in progress]
+- NW Montana avalanche forecast generator
 
-- [Montana scratch lotto web-scrape](../ScratchLottoScrape)
+- [Montana scratch lotto web-scrape](https://github.com/ckaterba/ScratchLottoScrape)
 
-- [Winter sports heat map](../DDP_projects/docs/docs/DDP_project_1_ski_heatmap.html)
+- [Winter sports heat map](../DDP_projects/docs/DDP_project_1_ski_heatmap.html)
 
-- Naive Wordle solver. 
+- [Naive Wordle solver](./wordle): Created when the game Wordle first started making waves. This solver simply makes a random guess for the first word, trims the dictionary using information from the first guess, then randomly picks another word and repeates until it guesses correctly. 
 
-- [A planet with a moon orbiting a star](https://www.shadertoy.com/view/NdGyWh) Simple ray tracing animation created in ShaderToy.
+- [A planet with a moon orbiting a star](https://www.shadertoy.com/view/NdGyWh): Simple ray tracing animation created in ShaderToy.
 
 
 #### Math
