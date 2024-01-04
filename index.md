@@ -52,9 +52,9 @@ Below you'll find links to a few semi-silly personal projects. The less silly a 
 
 - [Montana scratch lotto web-scrape](https://github.com/ckaterba/ScratchLottoScrape)
 
-- [Winter sports heat map](../DDP_projects/docs/DDP_project_1_ski_heatmap.html)
+- [Winter sports heat map](../DDP_projects/DDP_project_1_ski_heatmap.html)
 
-- [Naive Wordle solver](./wordle): Created when the game Wordle first started making waves. This solver simply makes a random guess for the first word, trims the dictionary using information from the first guess, then randomly picks another word and repeates until it guesses correctly. 
+- [Naive Wordle solver](./wordle/naiveWordle.R): Created when the game Wordle first started making waves. This solver simply makes a random guess for the first word, trims the dictionary using information from the first guess, then randomly picks another word and repeates until it guesses correctly. 
 
 - [A planet with a moon orbiting a star](https://www.shadertoy.com/view/NdGyWh): Simple ray tracing animation created in ShaderToy.
 
