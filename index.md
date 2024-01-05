@@ -1,4 +1,6 @@
-## About 
+![Mountain Goat in Glacier NP](./assets/goat.jpg)
+
+## About
 
 I'm an assistant professor of math at [Flathead Valley Community College](https://www.fvcc.edu). I primarily teach intro statistics and the courses feeding into this class, but my background is in low-dimensional topology. Back in the day I thought about 3-manifolds and the character varieties thereof, but lately I've pivoted towards thinking about data analysis, data science, and machine learning.  
 
