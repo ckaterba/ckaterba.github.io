@@ -10,7 +10,7 @@ To see more about my background, check out my
 
 - An older CV
 
-
+The rest of this pages gives some teaching resources, then describes some data and math related projects. 
 
 ### Teaching resources
 
@@ -38,7 +38,7 @@ To see more about my background, check out my
 
 - *No Holding Back Analysis*
 
-#### Contract 
+#### Data Analyst Contract Work
 
 - *Kalispell SD5 5 and 10 year enrollment forecasting*
 
@@ -50,22 +50,22 @@ Below you'll find links to a few semi-silly personal projects. The less silly a 
 
 - NW Montana avalanche forecast generator
 
-- [Montana scratch lotto web-scrape](https://github.com/ckaterba/ScratchLottoScrape)
+- [Montana scratch lotto web-scrape](https://github.com/ckaterba/ScratchLottoScrape): Scrape the Montana state scratch lottery website with R to have STAT216 students calculate the expected value and standard deviation of the winnings for each ticket. 
 
-- [Winter sports heat map](../DDP_projects/DDP_project_1_ski_heatmap.html)
+- [Winter sports heat map](../DDP_projects/DDP_project_1_ski_heatmap.html): A color-coded heatmap of some some winter activities recorded in Strava. The map tile may not have updated
 
-- [Naive Wordle solver](./wordle/naiveWordle.R): Created when the game Wordle first started making waves. This solver simply makes a random guess for the first word, trims the dictionary using information from the first guess, then randomly picks another word and repeates until it guesses correctly. 
+- [Naive Wordle solver](https://github.com/ckaterba/ckaterba.github.io/blob/main/wordle/naiveWordle.R): Created when the game Wordle first started making waves. This solver simply makes a random guess for the first word, trims the dictionary using information from the first guess, then randomly picks another word and repeats until it guesses correctly. 
 
 - [A planet with a moon orbiting a star](https://www.shadertoy.com/view/NdGyWh): Simple ray tracing animation created in ShaderToy.
 
 
 #### Math
 
+![Undergrad Reseach Image](4_2_pi4_2.pdf)
+
 - [Ideal points of character varieties, algebraic non-integral representations, and undetected closed essential surfaces in 3-manifolds](https://arxiv.org/abs/1808.02535). Link to pre-print of a paper published in the Proceedings of the AMS. Joint work with Alex Casella and Stephan Tillmann.
 
 - [Modules, fields of definition, and the Culler--Shalen norm](https://arxiv.org/abs/1805.04585). Link to pre-print of a paper submitted to Algebraic and Geometric Topology. 
-
-- Indra's Pearls Undergrad research project, include image and link to some code
 
 - Twist-knot intersections in the character variety of the Whitehead link. Project in progress with Tim Morris. [Link to some computations in Sage](https://github.com/ckaterba/Twist_Knot_CharVar_Intersection/blob/main/twistIntExploration.ipynb).
 
