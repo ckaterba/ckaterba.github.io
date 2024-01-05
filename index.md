@@ -4,19 +4,15 @@ I'm an assistant professor of math at [Flathead Valley Community College](https:
 
 In 2022 I started working part-time as a data analyst for FVCC. This role involves performing in-depth statistical analyses, developing and maintaining Tableau dashboards, ETL and automation projects related to IR and IT, and fulfilling adhoc data requests. I interact with a wide variety of stakeholders across campus, from faculty to the financial aid and business offices to the executive team, and leverage my experience as en educator to clearly communicate technical results to all parties.
 
-To see more about my background, check out my
-
-- [Resume](./assets/resume.pdf) and 
-
-- An older CV
+To see more about my background, check out my current [resume](./assets/resume.pdf) or an older CV.
 
 The rest of this pages gives some teaching resources, then describes some data and math related projects. 
 
 ### Teaching resources
 
-- [STAT216](./stat216): Find here a playlist of videos I made for FVCC's online intro stats class, notes on using R for basic inferential statistics, 
+- [STAT216](./stat216): Find here a playlist of videos I made for FVCC's online intro stats class, notes on using R for basic inferential statistics, and an educational widget or two. 
 
-- [M115](./m115)
+- [M115](./m115): Find here links to books we use in this course, Desmos, and other class resources. 
 
 ### Projects
 
@@ -61,7 +57,7 @@ Below you'll find links to a few semi-silly personal projects. The less silly a 
 
 #### Math
 
-![Undergrad Reseach Image](./assets/4_2_pi4_2.pdf)
+![Undergrad Reseach Image](./assets/ug_research.png)
 
 - [Ideal points of character varieties, algebraic non-integral representations, and undetected closed essential surfaces in 3-manifolds](https://arxiv.org/abs/1808.02535). Link to pre-print of a paper published in the Proceedings of the AMS. Joint work with Alex Casella and Stephan Tillmann.
 
