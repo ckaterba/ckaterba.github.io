@@ -20,15 +20,15 @@ The rest of this pages gives links to some teaching resources and some professio
 
 - [Professional - data](./professional)
 
-![Enrollment forecast for Kalispell Public Schools](./assets/model.png)
+[![Enrollment forecast for Kalispell Public Schools](./assets/model.png)](./professional)
 
-- [Professional - mathematics](/math)
+- [Professional - mathematics](./math)
 
-![Image generated in an undergraduate research project](./assets/ug_research.png)
+[![Image generated in an undergraduate research project](./assets/ug_research.png)](./math)
 
 - [Personal Data Projects](./personal)
 
-![Big mountain winter heat map](./assets/bigmountain.png)
+[![Big mountain winter heat map](./assets/bigmountain.png)](./personal)
 
 
 
