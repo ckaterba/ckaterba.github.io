@@ -6,7 +6,7 @@ In 2022 I started working part-time as a data analyst for FVCC. This role involv
 
 To see more about my background, check out my
 
-- [Resume](./resume/resume.pdf) and 
+- [Resume](./assets/resume.pdf) and 
 
 - An older CV
 
@@ -48,7 +48,7 @@ The rest of this pages gives some teaching resources, then describes some data a
 
 Below you'll find links to a few semi-silly personal projects. The less silly a project sounds, the higher probability it has of being incomplete. 
 
-- NW Montana avalanche forecast generator
+- [NW Montana avalanche forecast generator](https://github.com/ckaterba/FlatheadAvi-Scrape-and-Analyze): Use Flathead Avalanche Center daily forecasts and National Avalanche Center tabular weather station data to train and deploy an ML-generated daily avalanche danger forecast. This might be useful for when the FAC is not providing daily forecasts and when a user is heading out before the FAC publishes its daily report.
 
 - [Montana scratch lotto web-scrape](https://github.com/ckaterba/ScratchLottoScrape): Scrape the Montana state scratch lottery website with R to have STAT216 students calculate the expected value and standard deviation of the winnings for each ticket. 
 
@@ -61,7 +61,7 @@ Below you'll find links to a few semi-silly personal projects. The less silly a 
 
 #### Math
 
-![Undergrad Reseach Image](4_2_pi4_2.pdf)
+![Undergrad Reseach Image](./assets/4_2_pi4_2.pdf)
 
 - [Ideal points of character varieties, algebraic non-integral representations, and undetected closed essential surfaces in 3-manifolds](https://arxiv.org/abs/1808.02535). Link to pre-print of a paper published in the Proceedings of the AMS. Joint work with Alex Casella and Stephan Tillmann.
 
