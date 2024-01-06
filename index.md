@@ -1,4 +1,4 @@
-![Mountain Goat in Glacier NP](./assets/goat.jpg)
+
 
 ## About
 
@@ -7,6 +7,10 @@ I'm an assistant professor of math at [Flathead Valley Community College](https:
 In 2022 I started working part-time as a data analyst for FVCC. This role involves performing in-depth statistical analyses, developing and maintaining Tableau dashboards, ETL and automation projects related to IR and IT, and fulfilling adhoc data requests. I interact with a wide variety of stakeholders across campus, from faculty to the financial aid and business offices to the executive team, and leverage my experience as en educator to clearly communicate technical results to all parties.
 
 To see more about my background, check out my current [resume](./assets/resume.pdf) or an older CV. For more information on the projects listed in my resume, see the 'Professional - data' project link below.
+
+Please enjoy this picture of a mountain goat in Glacier National Park.
+
+![Mountain Goat in Glacier NP](./assets/goat.jpg)
 
 The rest of this pages gives links to some teaching resources and some professional and personal projects.
 
